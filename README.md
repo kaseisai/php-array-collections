@@ -23,13 +23,13 @@ ArrMethods::isOneDimensionalArray($arr);
 
 ## 作者
 
-[php99.net](https://github.com/kaseisai/php-array-collections)
+[php99.net](http://php99.net)
 
 ## License
 
 MIT Public License
 
 ## 建议
-如果你对库中的方法有疑问，欢迎提问
-如果你有更好的实现方法，欢迎fork，提交你的方法
-如果你觉得对你有用，欢迎star
+1. 如果你对库中的方法有疑问，欢迎提问
+2. 如果你有更好的实现方法，欢迎fork，提交你的方法
+3. 如果你觉得对你有用，欢迎star
