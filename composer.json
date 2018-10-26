@@ -1,0 +1,20 @@
+{
+    "name": "php99.net/php-array-collections",
+    "description": "php array collections for phper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kaseisai",
+            "email": "kaseisai@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "ArrayConllections\\ArrMethods\\": "src/ArrayConllections"
+        }
+    }
+}
