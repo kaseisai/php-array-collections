@@ -9,14 +9,14 @@ class ComposerStaticInit796bccc01a3581a8b06b55937a98dda7
     public static $prefixLengthsPsr4 = array (
         'A' => 
         array (
-            'ArrayConllections\\ArrMethods\\' => 29,
+            'ArrayConllections\\' => 18,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'ArrayConllections\\ArrMethods\\' => 
+        'ArrayConllections\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src/ArrayConllections/ArrMethods',
+            0 => __DIR__ . '/../..' . '/src/ArrayConllections',
         ),
     );
 

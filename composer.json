@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ArrayConllections\\ArrMethods\\": "src/ArrayConllections/ArrMethods"
+            "ArrayConllections\\": "src/ArrayConllections"
         }
     }
 }
