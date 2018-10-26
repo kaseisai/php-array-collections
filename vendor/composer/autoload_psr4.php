@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'ArrayConllections\\ArrMethods\\' => array($baseDir . '/src/ArrayConllections'),
+    'ArrayConllections\\ArrMethods\\' => array($baseDir . '/src/ArrayConllections/ArrMethods'),
 );

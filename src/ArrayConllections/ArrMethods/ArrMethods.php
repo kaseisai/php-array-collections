@@ -1,6 +1,6 @@
 <?php
 
-namespace ArrayConllections;
+namespace ArrayConllections\ArrMethods;
 
 class ArrMethods
 {

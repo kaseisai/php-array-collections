@@ -16,7 +16,7 @@ class ComposerStaticInit796bccc01a3581a8b06b55937a98dda7
     public static $prefixDirsPsr4 = array (
         'ArrayConllections\\ArrMethods\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src/ArrayConllections',
+            0 => __DIR__ . '/../..' . '/src/ArrayConllections/ArrMethods',
         ),
     );
 
